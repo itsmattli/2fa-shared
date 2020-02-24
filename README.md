@@ -6,3 +6,7 @@ References:
 Uses:
 - https://github.com/xoxco/node-slack
 - https://www.twilio.com/docs/libraries/node
+
+Environment:
+- Make sure Twillo token is correct if NODE_ENV to 'production'
+- Create webhook for a app/channel in slack
