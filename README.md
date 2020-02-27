@@ -7,7 +7,7 @@ References:
 - https://www.twilio.com/docs/sms/twiml#twilios-request-to-your-application
 
 Uses:
-- https://github.com/xoxco/node-slack
+- https://slack.dev/node-slack-sdk/webhook
 - https://www.twilio.com/docs/libraries/node
 
 Environment:
